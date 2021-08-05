@@ -1,0 +1,194 @@
+{
+    "People":
+    [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Katrine",
+                "last": "Johansen"
+            },
+            "location": {
+                "street": {
+                    "number": 6225,
+                    "name": "Gartnervej"
+                },
+                "city": "St.Merløse",
+                "state": "Hovedstaden",
+                "country": "Denmark",
+                "postcode": 50901,
+                "coordinates": {
+                    "latitude": "-34.5400",
+                    "longitude": "88.6764"
+                },
+                "timezone": {
+                    "offset": "+4:30",
+                    "description": "Kabul"
+                }
+            },
+            "email": "katrine.johansen@example.com",
+            "login": {
+                "uuid": "747a93c2-78a6-49cf-829b-be23d5ad0a32",
+                "username": "sadpanda893",
+                "password": "meow",
+                "salt": "FMyJV9bi",
+                "md5": "427ca3ec7c39254c68b8e012ad16a626",
+                "sha1": "ebf2c4385db416d3d2e445a75a7b94abdb6f5f16",
+                "sha256": "856392e08bb0e3bf7a51168ddd16127390106281d4e05a0b8f08d014780d6736"
+            },
+            "dob": {
+                "date": "1953-08-28T16:56:40.857Z",
+                "age": 68
+            },
+            "registered": {
+                "date": "2006-06-26T03:54:28.283Z",
+                "age": 15
+            },
+            "phone": "36806216",
+            "cell": "84792738",
+            "id": {
+                "name": "CPR",
+                "value": "280853-7642"
+            },
+            "nat": "DK",
+            "favorites": {
+                "sports": [
+                    "baseball",
+                    "basketball",
+                    "swimming"
+                ],
+                "bands": [
+                    "ABBA",
+                    "Bee Gees",
+                    "Cher"
+                ]
+            }
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Lola",
+                "last": "Blanchard"
+            },
+            "location": {
+                "street": {
+                    "number": 8044,
+                    "name": "Rue Baraban"
+                },
+                "city": "Versailles",
+                "state": "Lot-et-Garonne",
+                "country": "France",
+                "postcode": 33162,
+                "coordinates": {
+                    "latitude": "-2.8356",
+                    "longitude": "80.8582"
+                },
+                "timezone": {
+                    "offset": "-6:00",
+                    "description": "Central Time (US & Canada), Mexico City"
+                }
+            },
+            "email": "lola.blanchard@example.com",
+            "login": {
+                "uuid": "91e3c6f9-4337-4f36-b59c-a9bae2402d2b",
+                "username": "smallostrich627",
+                "password": "megane",
+                "salt": "noC0mARu",
+                "md5": "0f463dbe76aca06e029157970ad43636",
+                "sha1": "2663378d1ac6eae0e3253f95694ceca521f267a8",
+                "sha256": "4994ec07434f6bae8ea6f5eb69a3da9ab17cf75d3cea33cb914fd4f930b5182b"
+            },
+            "dob": {
+                "date": "1984-10-04T00:38:30.416Z",
+                "age": 37
+            },
+            "registered": {
+                "date": "2013-03-24T04:00:44.452Z",
+                "age": 8
+            },
+            "phone": "01-20-18-17-88",
+            "cell": "06-17-05-05-28",
+            "id": {
+                "name": "INSEE",
+                "value": "2NNaN57802292 56"
+            },
+            "nat": "FR",
+            "favorites": {
+                "sports": [
+                    "baseball",
+                    "basketball",
+                    "hockey"
+                ],
+                "bands": [
+                    "NSYNC",
+                    "Backstreet Boys",
+                    "Britney Spears"
+                ]
+            }
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "John",
+                "last": "Cooper"
+            },
+            "location": {
+                "street": {
+                    "number": 9095,
+                    "name": "Madras Street"
+                },
+                "city": "Rotorua",
+                "state": "Waikato",
+                "country": "New Zealand",
+                "postcode": 18536,
+                "coordinates": {
+                    "latitude": "60.9685",
+                    "longitude": "-1.8984"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "john.cooper@example.com",
+            "login": {
+                "uuid": "910e7ad1-b8a6-4bc8-8f08-5b99e00e4cdb",
+                "username": "angryleopard388",
+                "password": "weiner",
+                "salt": "TGQyRWHb",
+                "md5": "34f6f5061e337d947b4a55fe7d455171",
+                "sha1": "d15d56679ed335aea6ba7fc1387fa6187e6cb2d4",
+                "sha256": "57896dfc6dad27f0999d3186aa5460984c021616f60d00eb056b70694dd8246a"
+            },
+            "dob": {
+                "date": "1983-06-30T04:23:05.857Z",
+                "age": 38
+            },
+            "registered": {
+                "date": "2013-01-02T11:47:22.101Z",
+                "age": 8
+            },
+            "phone": "(800)-928-8723",
+            "cell": "(177)-132-1410",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "nat": "NZ",
+            "favorites": {
+                "sports": [
+                    "baseball",
+                    "hockey",
+                    "tennis"
+                ],
+                "bands": [
+                    "ABBA",
+                    "Beatles",
+                    "Beach Boys"
+                ]
+            }
+        }
+    ]
+}
